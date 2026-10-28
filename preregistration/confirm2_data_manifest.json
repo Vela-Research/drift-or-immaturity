@@ -1,0 +1,473 @@
+{
+ "sba/FOIA_7a_FY1991_FY1999_asof_260630.csv": {
+  "url": "https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY1991_FY1999_asof_260630.csv",
+  "downloaded_utc": "2026-10-25T18:53:40Z",
+  "last_modified": "Tue, 21 Jul 2026 17:28:36 GMT",
+  "bytes": 146416885,
+  "sha256": "05040efc4a43224a02460d606ea744579a54b650bdb99663a833ed0b31936213"
+ },
+ "sba/FOIA_7a_FY2000_FY2009_asof_260630.csv": {
+  "url": "https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2000_FY2009_asof_260630.csv",
+  "downloaded_utc": "2026-10-25T18:54:46Z",
+  "last_modified": "Tue, 21 Jul 2026 17:30:13 GMT",
+  "bytes": 318425094,
+  "sha256": "66674e18a700fbba0378c25118c291ac2759784a550c643cab5747eced763d6a"
+ },
+ "sba/FOIA_7a_FY2010_FY2019_asof_260630.csv": {
+  "url": "https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2010_FY2019_asof_260630.csv",
+  "downloaded_utc": "2026-10-25T18:55:33Z",
+  "last_modified": "Tue, 21 Jul 2026 17:31:15 GMT",
+  "bytes": 255101999,
+  "sha256": "01a3e2c7988a6f4052e53f218a309feb2ec2fe42887bebdc0fa94ac8b1024ade"
+ },
+ "sba/FOIA_7a_FY2020_Present_asof_260630.csv": {
+  "url": "https://data.sba.gov/sites/default/files/uploaded_resources/FOIA_7a_FY2020_Present_asof_260630.csv",
+  "downloaded_utc": "2026-10-25T18:56:21Z",
+  "last_modified": "Tue, 21 Jul 2026 17:32:02 GMT",
+  "bytes": 181130871,
+  "sha256": "6c1e9132b5141a19f82bdc8ccafb86c9a01662461cad41ddb36a3cf409d8a4fe"
+ },
+ "sba/7a_504_foia_data_dictionary.xlsx": {
+  "url": "https://data.sba.gov/sites/default/files/uploaded_resources/7a_504_foia_data_dictionary.xlsx",
+  "downloaded_utc": "2026-10-25T18:56:23Z",
+  "last_modified": "Tue, 21 Jul 2026 17:17:40 GMT",
+  "bytes": 24529,
+  "sha256": "777ba97a6f92e325f79905610816cb59d41f1971cd964c54dc30ef02730a3941"
+ },
+ "fjc/cv88on.zip": {
+  "url": "https://www.fjc.gov/sites/default/files/idb/textfiles/cv88on.zip",
+  "downloaded_utc": "2026-10-25T18:57:27Z",
+  "last_modified": "Wed, 26 Aug 2026 15:28:04 GMT",
+  "bytes": 329665474,
+  "sha256": "74405231a9a3c246c7090d471a1525924fa5afb513ff22b4dc0f4babbac7223d"
+ },
+ "fjc/civil_codebook.pdf": {
+  "url": "https://www.fjc.gov/sites/default/files/idb/codebooks/Civil%20Codebook%201988%20Forward%2010252023.pdf",
+  "downloaded_utc": "2026-10-25T18:57:30Z",
+  "last_modified": "Tue, 24 Oct 2023 17:25:10 GMT",
+  "bytes": 172315,
+  "sha256": "57c1ab722420e3e680fabf02865fca3d49b3939261f380c04ba7873979c81adf"
+ },
+ "fjc/federal-judicial-service.csv": {
+  "url": "https://www.fjc.gov/sites/default/files/history/federal-judicial-service.csv",
+  "downloaded_utc": "2026-10-25T18:57:32Z",
+  "last_modified": "Sun, 25 Oct 2026 05:05:21 GMT",
+  "bytes": 1639117,
+  "sha256": "8fa8642abdf28db03e090fab18985dee3abd85500ffc30ce84fb2de4e5abe1c9"
+ },
+ "cov/unrate_AL.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ALUR",
+  "downloaded_utc": "2026-10-25T18:57:35Z",
+  "last_modified": "Tue, 20 Oct 2026 14:41:08 GMT",
+  "bytes": 9224,
+  "sha256": "7dcb81c3f6ff851a1d5ad67f23e186dcb8a506686698271eca6405873b5742b4",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_AK.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=AKUR",
+  "downloaded_utc": "2026-10-25T18:57:36Z",
+  "last_modified": "Tue, 20 Oct 2026 14:42:14 GMT",
+  "bytes": 9214,
+  "sha256": "399f43bf78add96d4f716af4c9156076c8afee68af2fb063ceda05d9986ab7d2",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_AZ.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=AZUR",
+  "downloaded_utc": "2026-10-25T18:57:37Z",
+  "last_modified": "Tue, 20 Oct 2026 14:40:18 GMT",
+  "bytes": 9189,
+  "sha256": "ebbbcce46bac9ac5edbfaf103ccf27dbb63cdbfd3447d1eb32935127cb68d346",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_AR.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ARUR",
+  "downloaded_utc": "2026-10-25T18:57:38Z",
+  "last_modified": "Tue, 20 Oct 2026 14:38:35 GMT",
+  "bytes": 9160,
+  "sha256": "516cd155b167f1f10324dc24337bc73de2026ed6559832c5a06175960cae53cc",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_CA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CAUR",
+  "downloaded_utc": "2026-10-25T18:57:40Z",
+  "last_modified": "Tue, 20 Oct 2026 14:38:54 GMT",
+  "bytes": 9216,
+  "sha256": "c6d0011f0713b0d2eef9b0a83c897ab880799700e652fc1e3cc1c54b1cc2db2c",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_CO.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=COUR",
+  "downloaded_utc": "2026-10-25T18:57:41Z",
+  "last_modified": "Tue, 20 Oct 2026 14:38:02 GMT",
+  "bytes": 9157,
+  "sha256": "86dd59d2d656e4495f26c9c2dd84101d98beb6cf0ca30069fc27bb5a16df1050",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_CT.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CTUR",
+  "downloaded_utc": "2026-10-25T18:57:42Z",
+  "last_modified": "Tue, 20 Oct 2026 14:38:59 GMT",
+  "bytes": 9157,
+  "sha256": "65f7a71df8e3bfc0fe0758bac2d0254fb12b2f05fe03c0cf0ec57d0fa1b6099c",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_DE.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEUR",
+  "downloaded_utc": "2026-10-25T18:57:44Z",
+  "last_modified": "Tue, 20 Oct 2026 14:44:57 GMT",
+  "bytes": 9157,
+  "sha256": "e91c28d6d81ba8c811e61330fe3d14ea6d9b165fbf221a84892053e4e5ece629",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_DC.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCUR",
+  "downloaded_utc": "2026-10-25T18:57:45Z",
+  "last_modified": "Tue, 20 Oct 2026 14:43:08 GMT",
+  "bytes": 9192,
+  "sha256": "e882b80df0eaba73a90a47bb255e4686921a3509d2c460a6828c3372a25c046b",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_FL.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=FLUR",
+  "downloaded_utc": "2026-10-25T18:57:46Z",
+  "last_modified": "Tue, 20 Oct 2026 14:44:51 GMT",
+  "bytes": 9186,
+  "sha256": "f546d55a8744bf66dd21c8d863707bf441372eea86204e0b2b6e9dbd54bb6e6f",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_GA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GAUR",
+  "downloaded_utc": "2026-10-25T18:57:47Z",
+  "last_modified": "Tue, 20 Oct 2026 14:45:35 GMT",
+  "bytes": 9183,
+  "sha256": "9b86784ae506053e32c467f0d30a518323da5a41cedc9a70e0e21855c087ff7c",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_HI.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=HIUR",
+  "downloaded_utc": "2026-10-25T18:57:48Z",
+  "last_modified": "Tue, 20 Oct 2026 14:45:18 GMT",
+  "bytes": 9163,
+  "sha256": "f7c0e4d368733d40421530fd024073670d4b764d8b15fc7f921b03ad295832d4",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_ID.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IDUR",
+  "downloaded_utc": "2026-10-25T18:57:49Z",
+  "last_modified": "Tue, 20 Oct 2026 14:44:28 GMT",
+  "bytes": 9162,
+  "sha256": "a33e125a1fb03cbdfb2559b5e428555878d6bed8f4ccb0ed76c43a4731cff23b",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_IL.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ILUR",
+  "downloaded_utc": "2026-10-25T18:57:50Z",
+  "last_modified": "Tue, 20 Oct 2026 14:45:29 GMT",
+  "bytes": 9198,
+  "sha256": "3ade8bdac3eff12993013e17f666a99a467626fb696cdb1b76dc6780a21e3e98",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_IN.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=INUR",
+  "downloaded_utc": "2026-10-25T18:57:51Z",
+  "last_modified": "Tue, 20 Oct 2026 14:47:06 GMT",
+  "bytes": 9204,
+  "sha256": "085d5c8d5a20ca1acd8d06cdaf151e9e117db1f36c657c740d35a2c2414082e2",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_IA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IAUR",
+  "downloaded_utc": "2026-10-25T18:57:52Z",
+  "last_modified": "Tue, 20 Oct 2026 14:46:05 GMT",
+  "bytes": 9155,
+  "sha256": "88e7e281539418a93a44f7f080eeb665af1f339f9f094ada566babfe10951400",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_KS.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=KSUR",
+  "downloaded_utc": "2026-10-25T18:57:53Z",
+  "last_modified": "Tue, 20 Oct 2026 14:46:27 GMT",
+  "bytes": 9155,
+  "sha256": "07fe35715b0009429dc339df17e455263197b7d6d315e83bdc1880ac921d1358",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_KY.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=KYUR",
+  "downloaded_utc": "2026-10-25T18:57:54Z",
+  "last_modified": "Tue, 20 Oct 2026 14:45:39 GMT",
+  "bytes": 9199,
+  "sha256": "f875c1f92f584088c43e3fd19283d38556fce8f7075f8519e822dbbf87dc340e",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_LA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=LAUR",
+  "downloaded_utc": "2026-10-25T18:57:55Z",
+  "last_modified": "Tue, 20 Oct 2026 14:46:49 GMT",
+  "bytes": 9234,
+  "sha256": "e41d9e28a769adcf0ea62563e548c597b6a05d83e192a6299462837611807ecf",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_ME.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MEUR",
+  "downloaded_utc": "2026-10-25T18:57:56Z",
+  "last_modified": "Tue, 20 Oct 2026 14:48:18 GMT",
+  "bytes": 9154,
+  "sha256": "ce4cdd8b847b744f970a6381b30c535ea296bab37613e034b664b00163e1acd7",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MD.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MDUR",
+  "downloaded_utc": "2026-10-25T18:57:57Z",
+  "last_modified": "Tue, 20 Oct 2026 14:48:34 GMT",
+  "bytes": 9154,
+  "sha256": "fdeb2fc4c328285ac515f6fcefc103e4ebbba4089e4cc9806eb42ba002bd3744",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MAUR",
+  "downloaded_utc": "2026-10-25T18:57:59Z",
+  "last_modified": "Tue, 20 Oct 2026 14:41:13 GMT",
+  "bytes": 9164,
+  "sha256": "4f6768283b526bf24982f4023fd050d43bf80dad256f3f0cde780891e4e44bce",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MI.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MIUR",
+  "downloaded_utc": "2026-10-25T18:58:00Z",
+  "last_modified": "Tue, 20 Oct 2026 14:46:44 GMT",
+  "bytes": 9260,
+  "sha256": "8f400b124038dbbad336c6f3f9e1a03c76e35fc4b439940b17b5659e5ebe6c89",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MN.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MNUR",
+  "downloaded_utc": "2026-10-25T18:58:01Z",
+  "last_modified": "Tue, 20 Oct 2026 14:49:14 GMT",
+  "bytes": 9155,
+  "sha256": "e95ff4690bd0609993b92564db88545a0e99cb541e8d3c624cc4f60032fc2120",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MS.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MSUR",
+  "downloaded_utc": "2026-10-25T18:58:02Z",
+  "last_modified": "Tue, 20 Oct 2026 14:47:31 GMT",
+  "bytes": 9231,
+  "sha256": "9fa16de294931fa63bfeaf0ad6d5b27dce42210c175aff4513390be0231b4532",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MO.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MOUR",
+  "downloaded_utc": "2026-10-25T18:58:03Z",
+  "last_modified": "Tue, 20 Oct 2026 14:40:51 GMT",
+  "bytes": 9164,
+  "sha256": "f645926afae3915c7075b73bd05266d9a6d4ba1af8b7bca40d2e336d355379d8",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_MT.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MTUR",
+  "downloaded_utc": "2026-10-25T18:58:04Z",
+  "last_modified": "Tue, 20 Oct 2026 14:47:45 GMT",
+  "bytes": 9155,
+  "sha256": "abccf948e4ad091bdf8fac968ffbb4116593d8c0a623cd8890efbf18492ecd10",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NE.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NEUR",
+  "downloaded_utc": "2026-10-25T18:58:05Z",
+  "last_modified": "Tue, 20 Oct 2026 14:41:49 GMT",
+  "bytes": 9154,
+  "sha256": "dcce7a554f9e48818632b33cbdd03cad72f243b4ce86db03f717393371ce4294",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NV.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NVUR",
+  "downloaded_utc": "2026-10-25T18:58:06Z",
+  "last_modified": "Tue, 20 Oct 2026 14:49:11 GMT",
+  "bytes": 9226,
+  "sha256": "e6b9f4775718dd1db3dac5d3f335aa3d298acdea626d6ac6bcac227f207db3f9",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NH.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NHUR",
+  "downloaded_utc": "2026-10-25T18:58:08Z",
+  "last_modified": "Tue, 20 Oct 2026 14:51:05 GMT",
+  "bytes": 9156,
+  "sha256": "0be87bb9dfdf1e6a1800169b42aba8cdb5a9d6ab18bc74bcf20e594106dd4d0c",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NJ.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NJUR",
+  "downloaded_utc": "2026-10-25T18:58:08Z",
+  "last_modified": "Tue, 20 Oct 2026 14:49:50 GMT",
+  "bytes": 9178,
+  "sha256": "110cac123f4bdb9fcf664ae207de483092cf422cba3b19a206d37bc04f982c73",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NM.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NMUR",
+  "downloaded_utc": "2026-10-25T18:58:09Z",
+  "last_modified": "Tue, 20 Oct 2026 14:49:14 GMT",
+  "bytes": 9162,
+  "sha256": "a418b5976c87e6e99512942f4c0ecbf2b0dc83485a41318d5124ca29591ef185",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NY.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NYUR",
+  "downloaded_utc": "2026-10-25T18:58:10Z",
+  "last_modified": "Tue, 20 Oct 2026 14:49:52 GMT",
+  "bytes": 9174,
+  "sha256": "ba6b6233a58cbe3a250981341cb3ce9c2d1db9a398bb74c443d1411db9cef5ec",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_NC.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NCUR",
+  "downloaded_utc": "2026-10-25T18:58:11Z",
+  "last_modified": "Tue, 20 Oct 2026 14:48:42 GMT",
+  "bytes": 9195,
+  "sha256": "b07cc33f2d3f490bc9ac2340367c6e3d07f8315ccee2b037297c97086f6d4116",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_ND.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NDUR",
+  "downloaded_utc": "2026-10-25T18:58:12Z",
+  "last_modified": "Tue, 20 Oct 2026 14:47:45 GMT",
+  "bytes": 9154,
+  "sha256": "8d6fce1a2897b47fec526428647f5c12664096457a92a28479ca067d6fbcb6c5",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_OH.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=OHUR",
+  "downloaded_utc": "2026-10-25T18:58:13Z",
+  "last_modified": "Tue, 20 Oct 2026 14:41:58 GMT",
+  "bytes": 9199,
+  "sha256": "c3032e3754cb17c707049c5a3325d2cd81b09e2682ebdffff4633938be1d2da2",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_OK.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=OKUR",
+  "downloaded_utc": "2026-10-25T18:58:15Z",
+  "last_modified": "Tue, 20 Oct 2026 14:50:05 GMT",
+  "bytes": 9155,
+  "sha256": "3e315b1d2269fc362f9034659ae95330cfda02bb4e13b11df8e80ca78bece54f",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_OR.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ORUR",
+  "downloaded_utc": "2026-10-25T18:58:16Z",
+  "last_modified": "Tue, 20 Oct 2026 14:50:36 GMT",
+  "bytes": 9206,
+  "sha256": "3365099d86082efcb96ec945550fc1f099302632defa42750d3f2067e25098b6",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_PA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAUR",
+  "downloaded_utc": "2026-10-25T18:58:18Z",
+  "last_modified": "Tue, 20 Oct 2026 14:42:02 GMT",
+  "bytes": 9178,
+  "sha256": "8972df06d6ec0b1de09ec01e375eb664375bb485a7dc518fb4cd610642ca9214",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_RI.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=RIUR",
+  "downloaded_utc": "2026-10-25T18:58:19Z",
+  "last_modified": "Tue, 20 Oct 2026 14:52:09 GMT",
+  "bytes": 9212,
+  "sha256": "70c9952f84ea2470cad2a6055c8d16464db911469cacb35039dfe557c4b2fd0d",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_SC.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SCUR",
+  "downloaded_utc": "2026-10-25T18:58:20Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:19 GMT",
+  "bytes": 9205,
+  "sha256": "944003ca33de5f244b79e78a8cbee436bb6150c2f62bec68813b0f9fb0155498",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_SD.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SDUR",
+  "downloaded_utc": "2026-10-25T18:58:21Z",
+  "last_modified": "Tue, 20 Oct 2026 14:51:44 GMT",
+  "bytes": 9154,
+  "sha256": "1580ec9c4ed9149b4e17ed9f0d4ca5d2d220e9e7ff3659e02abbfbd1d8e93598",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_TN.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=TNUR",
+  "downloaded_utc": "2026-10-25T18:58:23Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:00 GMT",
+  "bytes": 9195,
+  "sha256": "4c9297a02c788734a5c99c9abe5a0dc3840283ce7cb5e0fa6382dae25fd14a31",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_TX.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=TXUR",
+  "downloaded_utc": "2026-10-25T18:58:24Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:25 GMT",
+  "bytes": 9157,
+  "sha256": "357b7b173691784292f67632c1c2a600fe4d6e9c3287bb9ec717261a87c5a2b8",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_UT.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UTUR",
+  "downloaded_utc": "2026-10-25T18:58:25Z",
+  "last_modified": "Tue, 20 Oct 2026 14:44:23 GMT",
+  "bytes": 9155,
+  "sha256": "060a87b8fa18d6e18d81b8302452cd454149ee0f3ad72adb1a8a8f6a0f1e810a",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_VT.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VTUR",
+  "downloaded_utc": "2026-10-25T18:58:27Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:42 GMT",
+  "bytes": 9155,
+  "sha256": "a9bde64f4c81836db8c8e7fac046368cd2627b5a746a547927507852fd84fb2c",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_VA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VAUR",
+  "downloaded_utc": "2026-10-25T18:58:28Z",
+  "last_modified": "Tue, 20 Oct 2026 14:55:36 GMT",
+  "bytes": 9156,
+  "sha256": "af90d03960f7e94e35b49b9e7d1189610361987a7a65e679e47b364ee930c16a",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_WA.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WAUR",
+  "downloaded_utc": "2026-10-25T18:58:29Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:48 GMT",
+  "bytes": 9194,
+  "sha256": "3b6cfe2f34ff9b56c33566e69a67ff23c820d734b277c790773fc74dedfc0303",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_WV.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WVUR",
+  "downloaded_utc": "2026-10-25T18:58:30Z",
+  "last_modified": "Tue, 20 Oct 2026 14:54:34 GMT",
+  "bytes": 9287,
+  "sha256": "b394fbf0d9edbcd605a7a7c80ec021ec238ea39e4f3fe97e138380262b02668b",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_WI.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WIUR",
+  "downloaded_utc": "2026-10-25T18:58:31Z",
+  "last_modified": "Tue, 20 Oct 2026 14:44:39 GMT",
+  "bytes": 9170,
+  "sha256": "c35c76b2ba91e2858a8fa1b361702f28ba99e6cca6b49baa12155823ba489771",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/unrate_WY.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WYUR",
+  "downloaded_utc": "2026-10-25T18:58:33Z",
+  "last_modified": "Tue, 20 Oct 2026 14:45:03 GMT",
+  "bytes": 9154,
+  "sha256": "713791766f55fedad261e686f62828e8ce90fe6cca6b577f9a151f49dcd65b42",
+  "source": "BLS LAUS state unemployment rate, seasonally adjusted (series LASST<fips>0000000000003), as copied by FRED (<ST>UR); FRED copy accepted before any method run"
+ },
+ "cov/fhfa_state.csv": {
+  "url": "https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_state.csv",
+  "downloaded_utc": "2026-10-25T18:57:34Z",
+  "last_modified": null,
+  "bytes": 187977,
+  "sha256": "b6bf3687c230c2ad008657fdb0c2b7489b5f99b6d1193f72c46c68d88df83d90"
+ }
+}

@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+data/
+experiments/*/artifacts/
+experiments/*/results*.json
+experiments/*/side_by_side.md
+experiments/*/gate.json
+experiments/*/figures/
+research/drift-or-maturity/figdata/*
+!research/drift-or-maturity/figdata/.gitkeep
+research/drift-or-maturity/paper/tables/*
+!research/drift-or-maturity/paper/tables/.gitkeep
+research/drift-or-maturity/paper/figures/*
+!research/drift-or-maturity/paper/figures/.gitkeep
+research/drift-or-maturity/figsrc/*.pdf
+research/drift-or-maturity/figsrc/*.png
